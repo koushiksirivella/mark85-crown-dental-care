@@ -1,0 +1,91 @@
+{
+  "title": "Crown Dental Care",
+  "website": "https://crowndc.in/",
+  "clinic_type": "Dental Clinic",
+  "city": "Hyderabad",
+  "rating": 4.9,
+  "reviews": 148,
+  "hours_text": "Open · Closes 7 pm",
+  "phone": "+917330787878",
+  "primary_email": "crowndentalcare9@gmail.com",
+  "instagram": "crowndentalcare_",
+  "images": [
+    "http://www.crowndc.in/images/hero.jpg",
+    "http://www.crowndc.in/images/google.jpg",
+    "http://www.crowndc.in/images/practo.jpg"
+  ],
+  "doctors": [
+    "Dr. Vanaja Rachha",
+    "Dr. Chaitanya",
+    "Dr. Sara Mushtaq",
+    "Dr. Shannu Kumar",
+    "Dr. Kumar"
+  ],
+  "services": [
+    "Dental Implants",
+    "Clear Aligners / Invisalign",
+    "Root Canal / Endodontics",
+    "Orthodontics / Braces",
+    "Pediatric Dentistry",
+    "Laser Skin / Hair",
+    "Clinical Dermatology / Pigmentation"
+  ],
+  "claims": [
+    "Best Dental Clinic Near Me",
+    "At Crown Dental Care, we believe every smile deserves a personalized journey.",
+    "That's why we offer a comprehensive range of dental services, tailored to your unique needs and goals.",
+    "Hear what our satisfied clients have to say about us.",
+    "Excellent treatment.",
+    "Vanaja is well experienced and do not compromise on Quality of Treatment."
+  ],
+  "scraped_at": "2026-11-17T12:17:52",
+  "ftid": "0x3bcb93f076a156a3:0xdb88f869648740a5",
+  "maps_url": "https://www.google.com/maps/place/Crown+Dental+Care/data=!4m7!3m6!1s0x3bcb93f076a156a3:0xdb88f869648740a5!8m2!3d17.4312203!4d78.3727403!16s%2Fg%2F11f_kl6lld!19sChIJo1ahdvCTyzsRpUCHZGn4iNs?authuser=0&hl=en&g_ep=EgoyMDI2MTExMC4wIJJjKgBIAVAD&rclk=1",
+  "found_via": "dental implant clinic Gachibowli Hyderabad",
+  "categories": [
+    "Dental clinic"
+  ],
+  "address": "2nd floor, Opposite: Care Hospitals, Old Mumbai Hwy, above HDFC bank, beside Preston Prime Mall",
+  "source": "playwright_gmaps",
+  "site_status": "LIVE",
+  "final_url": "http://www.crowndc.in/",
+  "site_latency_sec": 1.14,
+  "emails": [
+    "crowndentalcare9@gmail.com"
+  ],
+  "ig_confidence": "high",
+  "wa_links": [
+    "917330787878"
+  ],
+  "has_wa_widget": true,
+  "has_booking_form": false,
+  "has_patient_survey": false,
+  "has_ig_agent_cta": false,
+  "has_viewport_meta": true,
+  "uses_https": false,
+  "site_platform": "Static HTML / Legacy",
+  "site_title": "Crown Dental Care | Best Dental Clinic Near Me | Gachibowli, Hyderabad",
+  "site_h1": "Dental Excellence, Tailored to You!",
+  "website_issues": [
+    "No interactive patient assessment survey/intake funnel",
+    "Static WhatsApp link only — no automated 24/7 qualification & follow-up agent",
+    "Outdated/generic template UI (Static HTML / Legacy)",
+    "Not served over HTTPS (browser insecure warning)"
+  ],
+  "redesign_score": 8,
+  "qual_score": 100,
+  "tier": "A",
+  "ig_enrichment": {
+    "followers": 108,
+    "bio": "Empowering healthy, confident smiles through advanced dental care and personalised treatment experiences. CDC is here for you. \n📍Hyderabad, India",
+    "latest_post_date": "2026-01-26",
+    "latest_post_caption": "This Republic Day, we encourage brighter smiles, stronger oral health, and confident well-being for every family. Happy Republic Day 🇮🇳 📞+91 73307 87878 🌐 Visit",
+    "latest_post_url": "https://www.instagram.com/p/DT9Qn3ZD0Eg/"
+  },
+  "rank": 3,
+  "is_top_10": true,
+  "cold_dm_touch1": "quick note after reading crown dental care in hyderabad — saw your instagram post \"this republic day, we encourage brighter smiles\" from 2026-01-26. do visitors route straight into a whatsapp follow-up sequence right now? koushik this side, i set up clinic survey and instagram follow-ups.",
+  "cold_dm_words": 45,
+  "video_mail_subject": "crown dental care patient flow",
+  "video_mail_body": "hi dr. vanaja rachha,\n\ni spent a few minutes on http://www.crowndc.in/ today (saw your instagram post \"this republic day, we encourage brighter smiles\" from 2026-01-26).\nnoticed a few leaks that cost high-ticket dental implants bookings: No interactive patient assessment survey/intake funnel; Static WhatsApp link only — no automated 24/7 qualification & follow-up agent; Outdated/generic template UI (Static HTML / Legacy).\n\nso i went ahead and redesigned the full website flow for Crown Dental Care + wired a live interactive patient survey with automated whatsapp & instagram follow-up agents.\n\nrecorded a quick 30-second video walking through it for you here:\n[ATTACH OR PASTE 30-SECOND VIDEO + DEMO LINK HERE]\n\nif you like how it feels, happy to walk through connecting it to your clinic number & ig inbox in 10 mins — today 7:30 pm or tomorrow 11:30 am?\n\n— koushik\nunderstone ai automation · hyderabad"
+}
